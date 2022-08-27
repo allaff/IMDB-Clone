@@ -1,0 +1,23 @@
+*{
+    border: 0;
+    margin: 0;
+}
+.bd-color{
+    background-color: #000000;
+    color: #ffffff;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.color-font-text{
+    color: #000000;
+    text-align: justify;
+    font-size: 8pt;
+}
+.card-bd{
+    border:none;
+}
+.color-text-h{
+    color:#ffffff;
+}
