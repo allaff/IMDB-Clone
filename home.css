@@ -1,6 +1,11 @@
+@font-face {
+    font-family: Poppins;
+    src: url(fonts/);
+}
 *{
     border: 0;
     margin: 0;
+    font-family: "Poppins";
 }
 .bd-color{
     background-color: #000000;
