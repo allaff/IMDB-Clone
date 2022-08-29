@@ -5,6 +5,8 @@
 *{
     border: 0;
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: "Poppins";
 }
 .bd-color{
@@ -14,15 +16,20 @@
 a{
     text-decoration: none;
     color: #ffffff;
+    cursor: pointer;
 }
 .color-font-text{
     color: #000000;
-    text-align: justify;
-    font-size: 8pt;
+    text-align: left;
+    font-size: 10pt;
 }
 .card-bd{
     border:none;
 }
 .color-text-h{
     color:#ffffff;
+}
+.container{
+    max-width: max-content;
+    min-width:min-content;
 }
